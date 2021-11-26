@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @touatr
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning SASS/CSS
 - 💞️ I’m looking to collaborate on Front-end 
 - 📫 How to reach me 
 
